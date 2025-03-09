@@ -1,7 +1,7 @@
 .{
     .name = .mellow_glfw,
     .version = "0.14.0",
-    .fingerprint = 0xa924846d8ab86c60,
+    .fingerprint = 0x317aee8c17351a0e,
     .paths = .{
         "src/",
         "build.zig",
